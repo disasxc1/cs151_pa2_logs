@@ -1,0 +1,119 @@
+-- Compiling student's code with student ID 0x61ea6a963af5cc5442e5f4112040900709ebdeb9 --
+PASS
+
+---------------------
+-- Running Test 1 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 2 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 3 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 4 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 5 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['5']
+
+---------------------
+-- Running Test 6 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['999']
+
+---------------------
+-- Running Test 7 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['555']
+
+---------------------
+-- Running Test 8 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['123']
+
+---------------------
+-- Running Test 9 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['111']
+
+---------------------
+-- Running Test 10 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 11 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 12 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 13 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 14 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 15 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 16 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 17 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 18 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 19 --
+---------------------
+PASS
+
+
+
+--Final Report------------------------------------------------
+Tests passes: 15/20
+Percent: 75.00%
+Grade out of 15: 12

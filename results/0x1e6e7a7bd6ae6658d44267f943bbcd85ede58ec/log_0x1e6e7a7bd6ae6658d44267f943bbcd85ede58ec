@@ -1,0 +1,161 @@
+-- Compiling student's code with student ID 0x1e6e7a7bd6ae6658d44267f943bbcd85ede58ec --
+PASS
+
+---------------------
+-- Running Test 1 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['1 2', '3 4 5 6', '7 8 9 10 11 12 13']
+
+---------------------
+-- Running Test 2 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['777']
+
+---------------------
+-- Running Test 3 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['21', '33']
+
+---------------------
+-- Running Test 4 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['89', '2 4 5 7', '34 36 38 40 51']
+
+---------------------
+-- Running Test 5 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['5']
+
+---------------------
+-- Running Test 6 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['999']
+
+---------------------
+-- Running Test 7 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['555']
+
+---------------------
+-- Running Test 8 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['123']
+
+---------------------
+-- Running Test 9 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['111']
+
+---------------------
+-- Running Test 10 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['187']
+
+---------------------
+-- Running Test 11 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['1 2 3 4 22 33 44 55']
+
+---------------------
+-- Running Test 12 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['1 2 3 4 22 33 44 55', '99']
+
+---------------------
+-- Running Test 13 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['1 2 3 4 22 33 44 55', '95 96 97 98 99']
+
+---------------------
+-- Running Test 14 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['2 3 4 22 33 44 55', '11 12 13 14 15 16 95 96 97 98 99']
+
+---------------------
+-- Running Test 15 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['2 3 4 22 33 44 55', '11 12 13 14 15 16 95 96 97 98 99']
+
+---------------------
+-- Running Test 16 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['2 3 4 22 33 44 55', '100 101 102 103 104', '11 12 13 14 15 16 95 96 97 98 99']
+
+---------------------
+-- Running Test 17 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['2 3 4 22 33 44 55', '100 101 102 103 104', '11 12 13 14 15 16 95 96 97 98 99', '105 106 107']
+
+---------------------
+-- Running Test 18 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['2 3 4 22 33 44 55', '100 101 102 103 104', '11 12 13 14 15 16 95 96 97 98 99 105 106 107 777']
+
+---------------------
+-- Running Test 19 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['2 3 4 11 12 13 14 15 16 22 33 44 55 95 96 97 98 99 105 106 107 777 888', '100 101 102 103 104']
+
+
+
+--Final Report------------------------------------------------
+Tests passes: 1/20
+Percent: 5.00%
+Grade out of 15: 1

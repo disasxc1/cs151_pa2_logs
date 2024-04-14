@@ -1,0 +1,149 @@
+-- Compiling student's code with student ID 0xfd9f307981bc094184393ec93ef437b44cf0236b --
+PASS
+
+---------------------
+-- Running Test 1 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 2 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['777']
+
+---------------------
+-- Running Test 3 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['33']
+Expected: ['21', '33']
+
+---------------------
+-- Running Test 4 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['2 4 5 7', '89', '34 36 38 40 51']
+Expected: ['89', '2 4 5 7', '34 36 38 40 51']
+
+---------------------
+-- Running Test 5 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['5']
+
+---------------------
+-- Running Test 6 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['999']
+
+---------------------
+-- Running Test 7 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['555']
+
+---------------------
+-- Running Test 8 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['123']
+
+---------------------
+-- Running Test 9 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['111']
+
+---------------------
+-- Running Test 10 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: []
+Expected: ['187']
+
+---------------------
+-- Running Test 11 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['2 3 4 22 33 44 55']
+Expected: ['1 2 3 4 22 33 44 55']
+
+---------------------
+-- Running Test 12 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['2 3 4 22 33 44 55', '99']
+Expected: ['1 2 3 4 22 33 44 55', '99']
+
+---------------------
+-- Running Test 13 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['2 3 4 22 33 44 55', '95 96 97 98 99']
+Expected: ['1 2 3 4 22 33 44 55', '95 96 97 98 99']
+
+---------------------
+-- Running Test 14 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 15 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 16 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['2 3 4 22 33 44 55', '11 12 13 14 15 16 95 96 97 98 99', '100 101 102 103 104']
+Expected: ['2 3 4 22 33 44 55', '100 101 102 103 104', '11 12 13 14 15 16 95 96 97 98 99']
+
+---------------------
+-- Running Test 17 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['2 3 4 22 33 44 55', '11 12 13 14 15 16 95 96 97 98 99', '105 106 107', '100 101 102 103 104']
+Expected: ['2 3 4 22 33 44 55', '100 101 102 103 104', '11 12 13 14 15 16 95 96 97 98 99', '105 106 107']
+
+---------------------
+-- Running Test 18 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['2 3 4 22 33 44 55', '11 12 13 14 15 16 95 96 97 98 99 105 106 107 777', '100 101 102 103 104']
+Expected: ['2 3 4 22 33 44 55', '100 101 102 103 104', '11 12 13 14 15 16 95 96 97 98 99 105 106 107 777']
+
+---------------------
+-- Running Test 19 --
+---------------------
+PASS
+
+
+
+--Final Report------------------------------------------------
+Tests passes: 5/20
+Percent: 25.00%
+Grade out of 15: 4

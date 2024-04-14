@@ -1,0 +1,112 @@
+-- Compiling student's code with student ID 0x8c61594f248ac5bea86530a75c77cc443b85462f --
+PASS
+
+---------------------
+-- Running Test 1 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 2 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 3 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 4 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 5 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 6 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: -11 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 7 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: -11 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 8 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: -11 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 9 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: -11 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 10 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 11 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 12 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 13 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 14 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 15 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 16 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 17 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 18 --
+---------------------
+PASS
+
+---------------------
+-- Running Test 19 --
+---------------------
+PASS
+
+
+
+--Final Report------------------------------------------------
+Tests passes: 16/20
+Percent: 80.00%
+Grade out of 15: 12

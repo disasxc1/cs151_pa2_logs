@@ -1,0 +1,155 @@
+-- Compiling student's code with student ID 0x9dfb1057dccd49b7b8e0d012dd92223fb2d2ad10 --
+PASS
+
+---------------------
+-- Running Test 1 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['Neighborhood of cities 1: 1']
+Expected: ['1 2', '3 4 5 6', '7 8 9 10 11 12 13']
+
+---------------------
+-- Running Test 2 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: -11 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 3 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['Neighborhood of cities 0: 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1']
+Expected: ['21', '33']
+
+---------------------
+-- Running Test 4 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['Neighborhood of cities 8: 8', 'Neighborhood of cities 5: 5', 'Neighborhood of cities 6: 6', 'Neighborhood of cities 7: 7', 'Neighborhood of cities 7: 7', 'Neighborhood of cities 2: 2', 'Neighborhood of cities 3: 3 3', 'Neighborhood of cities 2: 2', 'Neighborhood of cities 4: 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4']
+Expected: ['89', '2 4 5 7', '34 36 38 40 51']
+
+---------------------
+-- Running Test 5 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['Neighborhood of cities 24: 24 24 24 24 24']
+Expected: ['5']
+
+---------------------
+-- Running Test 6 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: -11 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 7 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: -11 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 8 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: -11 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 9 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: -6 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 10 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: -11 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 11 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['Neighborhood of cities 0: 0']
+Expected: ['1 2 3 4 22 33 44 55']
+
+---------------------
+-- Running Test 12 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['Neighborhood of cities 0: 0']
+Expected: ['1 2 3 4 22 33 44 55', '99']
+
+---------------------
+-- Running Test 13 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['Neighborhood of cities 0: 0']
+Expected: ['1 2 3 4 22 33 44 55', '95 96 97 98 99']
+
+---------------------
+-- Running Test 14 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['Neighborhood of cities 1: 1 2']
+Expected: ['2 3 4 22 33 44 55', '11 12 13 14 15 16 95 96 97 98 99']
+
+---------------------
+-- Running Test 15 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['Neighborhood of cities 1: 1 2']
+Expected: ['2 3 4 22 33 44 55', '11 12 13 14 15 16 95 96 97 98 99']
+
+---------------------
+-- Running Test 16 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['Neighborhood of cities 1: 1 2']
+Expected: ['2 3 4 22 33 44 55', '100 101 102 103 104', '11 12 13 14 15 16 95 96 97 98 99']
+
+---------------------
+-- Running Test 17 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['Neighborhood of cities 1: 1 2']
+Expected: ['2 3 4 22 33 44 55', '100 101 102 103 104', '11 12 13 14 15 16 95 96 97 98 99', '105 106 107']
+
+---------------------
+-- Running Test 18 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['Neighborhood of cities 1: 1 2']
+Expected: ['2 3 4 22 33 44 55', '100 101 102 103 104', '11 12 13 14 15 16 95 96 97 98 99 105 106 107 777']
+
+---------------------
+-- Running Test 19 --
+---------------------
+FAIL
+ Outputs don't match.
+Output: ['Neighborhood of cities 1: 1 2']
+Expected: ['2 3 4 11 12 13 14 15 16 22 33 44 55 95 96 97 98 99 105 106 107 777 888', '100 101 102 103 104']
+
+
+
+--Final Report------------------------------------------------
+Tests passes: 1/20
+Percent: 5.00%
+Grade out of 15: 1

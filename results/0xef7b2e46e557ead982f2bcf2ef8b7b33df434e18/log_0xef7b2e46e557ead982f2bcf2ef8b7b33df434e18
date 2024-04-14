@@ -1,0 +1,142 @@
+-- Compiling student's code with student ID 0xef7b2e46e557ead982f2bcf2ef8b7b33df434e18 --
+PASS
+
+---------------------
+-- Running Test 1 --
+---------------------
+FAIL
+ Something went wrong.
+Exception: Command '['./main']' timed out after 5 seconds
+
+---------------------
+-- Running Test 2 --
+---------------------
+FAIL
+ Something went wrong.
+Exception: Command '['./main']' timed out after 5 seconds
+
+---------------------
+-- Running Test 3 --
+---------------------
+FAIL
+ Something went wrong.
+Exception: Command '['./main']' timed out after 5 seconds
+
+---------------------
+-- Running Test 4 --
+---------------------
+FAIL
+ Something went wrong.
+Exception: Command '['./main']' timed out after 5 seconds
+
+---------------------
+-- Running Test 5 --
+---------------------
+FAIL
+ Something went wrong.
+Exception: Command '['./main']' timed out after 5 seconds
+
+---------------------
+-- Running Test 6 --
+---------------------
+FAIL
+ Something went wrong.
+Exception: Command '['./main']' timed out after 5 seconds
+
+---------------------
+-- Running Test 7 --
+---------------------
+FAIL
+ Something went wrong.
+Exception: Command '['./main']' timed out after 5 seconds
+
+---------------------
+-- Running Test 8 --
+---------------------
+FAIL
+ Something went wrong.
+Exception: Command '['./main']' timed out after 5 seconds
+
+---------------------
+-- Running Test 9 --
+---------------------
+FAIL
+ Something went wrong.
+Exception: Command '['./main']' timed out after 5 seconds
+
+---------------------
+-- Running Test 10 --
+---------------------
+FAIL
+ Something went wrong.
+Exception: Command '['./main']' timed out after 5 seconds
+
+---------------------
+-- Running Test 11 --
+---------------------
+FAIL
+ Something went wrong.
+Exception: Command '['./main']' timed out after 5 seconds
+
+---------------------
+-- Running Test 12 --
+---------------------
+FAIL
+ Something went wrong.
+Exception: Command '['./main']' timed out after 5 seconds
+
+---------------------
+-- Running Test 13 --
+---------------------
+FAIL
+ Something went wrong.
+Exception: Command '['./main']' timed out after 5 seconds
+
+---------------------
+-- Running Test 14 --
+---------------------
+FAIL
+ Something went wrong.
+Exception: Command '['./main']' timed out after 5 seconds
+
+---------------------
+-- Running Test 15 --
+---------------------
+FAIL
+ Something went wrong.
+Exception: Command '['./main']' timed out after 5 seconds
+
+---------------------
+-- Running Test 16 --
+---------------------
+FAIL
+ Something went wrong.
+Exception: Command '['./main']' timed out after 5 seconds
+
+---------------------
+-- Running Test 17 --
+---------------------
+FAIL
+ Something went wrong.
+Exception: Command '['./main']' timed out after 5 seconds
+
+---------------------
+-- Running Test 18 --
+---------------------
+FAIL
+ Something went wrong.
+Exception: Command '['./main']' timed out after 5 seconds
+
+---------------------
+-- Running Test 19 --
+---------------------
+FAIL
+ Something went wrong.
+Exception: Command '['./main']' timed out after 5 seconds
+
+
+
+--Final Report------------------------------------------------
+Tests passes: 1/20
+Percent: 5.00%
+Grade out of 15: 1

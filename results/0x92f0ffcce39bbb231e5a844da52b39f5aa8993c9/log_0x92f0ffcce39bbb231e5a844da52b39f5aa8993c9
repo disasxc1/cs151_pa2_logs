@@ -1,0 +1,142 @@
+-- Compiling student's code with student ID 0x92f0ffcce39bbb231e5a844da52b39f5aa8993c9 --
+PASS
+
+---------------------
+-- Running Test 1 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: 1 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 2 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: 1 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 3 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: 1 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 4 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: 1 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 5 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: 1 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 6 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: 1 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 7 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: 1 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 8 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: 1 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 9 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: 1 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 10 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: 1 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 11 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: 1 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 12 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: 1 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 13 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: 1 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 14 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: 1 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 15 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: 1 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 16 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: 1 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 17 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: 1 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 18 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: 1 (-11 means segfault. Google if something else.)
+
+---------------------
+-- Running Test 19 --
+---------------------
+FAIL
+ Test failed due to runtime error.
+ Return code: 1 (-11 means segfault. Google if something else.)
+
+
+
+--Final Report------------------------------------------------
+Tests passes: 1/20
+Percent: 5.00%
+Grade out of 15: 1
